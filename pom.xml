@@ -18,7 +18,7 @@
 
     <properties>
         <javax.persistence-api.version>2.2</javax.persistence-api.version>
-        <mysql.connector.version>8.0.15</mysql.connector.version>
+        <mysql.connector.version>8.0.16</mysql.connector.version>
         <srping.boot.web.starter>2.1.5.RELEASE</srping.boot.web.starter>
         <modelmapper.version>2.3.5</modelmapper.version>
         <java.version>1.8</java.version>
